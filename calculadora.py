@@ -1,4 +1,5 @@
 cores = {'cinza': '\033[37m',
+         'vermelho': '\033[31m',
          'negrito': '\033[1m',
          'reset': '\033[m'}
 
